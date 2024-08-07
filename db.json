@@ -1,0 +1,46 @@
+{
+        "products": [
+            {
+                "productId": 1,
+                "productName": "strawberry pie",
+                "quantity": "8 pieces",
+                "price": 10.5
+            },
+            {
+                "productId": 2,
+                "productName": "strawberries",
+                "quantity": "1 kilo",
+                "price": 4.5
+            },
+            {
+                "productId": 3,
+                "productName": "milk",
+                "quantity": "1 liter",
+                "price": 2.39
+            },
+            {
+                "productId": 4,
+                "productName": "eggs",
+                "quantity": "a dozen",
+                "price": 3.99
+            },
+            {
+                "productId": 5,
+                "productName": "carrot",
+                "quantity": "1 carrot",
+                "price": 0.69
+            },
+            {
+                "productId": 6,
+                "productName": "cheese",
+                "quantity": "1 kilo",
+                "price": 6.99
+            },
+            {
+                "productId": 7,
+                "productName": "bread",
+                "quantity": "1 bread",
+                "price": 2.7
+            }
+        ]
+}
